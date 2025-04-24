@@ -13,7 +13,7 @@
 
 ### 🛠️ Projects
 
-- [Alienware m15 R5 Hackintosh (Ventura)](https://github.com/egeozten/alienware-m15r5-hackintosh)  
+- [Alienware m15 R5 Hackintosh (Ventura)](https://github.com/m3rcha/Alienware-m15-R5-Hackintosh)  
   EFI for Ryzen 9 + iGPU + macOS Ventura.  
   Wi-Fi, Bluetooth, Ethernet ✅ | Audio ❌
 
