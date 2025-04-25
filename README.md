@@ -1,29 +1,35 @@
 <h1 align="center">Hey, I'm mercha 👋</h1>
-<p align="center">turning chaos into code | old hackintosher | shiny mac user</p>
+<p align="center">from chaos to clean code · ex-hackintosher · minimal mac user</p>
 
 ---
 
 ### 🔧 What I Do
 
-- 🍎 Hackintoshed a Ryzen laptop, because... why not
-- 💻 Into minimal setups, clean configs, and working code
-- 🛠️ Tweak enjoyer — if it ain't broken, I might still fix it
+- 🍎 Once Hackintoshed a Ryzen laptop — because limits are boring  
+- 💻 Obsessive about clean configs and functional setups  
+- 🛠️ Terminal tweaker — if it works, I *still* might improve it  
 
 ---
 
-### 🛠️ Projects
+### 🚧 Projects
+
+- [BareMac](https://github.com/m3rcha/bare-mac)  
+  A lightweight macOS tweak utility with a terminal-inspired UI.  
+  Built with SwiftUI · Instant tweak application · Minimalist by design  
 
 - [Alienware m15 R5 Hackintosh (Ventura)](https://github.com/m3rcha/Alienware-m15-R5-Hackintosh)  
-  EFI for Ryzen 9 + iGPU + macOS Ventura.  
-  Wi-Fi, Bluetooth, Ethernet ✅ | Audio ❌
+  EFI build for Ryzen 9 + iGPU on macOS Ventura.  
+  **Working:** Wi-Fi · Bluetooth · Ethernet  
+  **Broken:** Audio  
 
 ---
 
-### 📦 Currently
+### 💻 Right Now
 
-- Using a real Mac now, but still occasionally debugging for fun
-- Not a fan of clutter — in code or on desktop
+- Rocking a real Mac (finally)  
+- Still drawn to weird edge cases and clean bash one-liners  
+- Desktop? Clean. Terminal? Cleaner.  
 
 ---
 
-> clean code, quiet system, just vibes.
+> less noise. more control. just vibes.
