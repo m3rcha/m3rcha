@@ -51,8 +51,8 @@
       <text x="252" y="134">OTOMASYON</text>
     </g>
 
-    <path d="M28 166h224" stroke="#FFFFFF" stroke-opacity=".08"/>
-    <circle cx="31" cy="186" r="3" fill="#F59E0B"/>
-    <text x="42" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#8B96A6">TÜRKİYE · SINCE 2023</text>
+    <path d="M28 160h224" stroke="#FFFFFF" stroke-opacity=".08"/>
+    <circle cx="31" cy="180" r="3" fill="#F59E0B"/>
+    <text x="42" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#8B96A6">TÜRKİYE · SINCE 2023</text>
   </g>
 </svg>
