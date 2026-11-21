@@ -8,7 +8,7 @@ Merhaba. Web platformları, macOS araçları ve otomasyonlar kuruyorum. Tasarım
 
 ## Şu an
 
-- **Nortra** — otomasyon ve mühendislik stüdyosu. Pazarlama sitesi ve panel temeli staging'de; sırada **Scope Bot** var.
+- **Nortra** — otomasyon ve mühendislik stüdyosu. Pazarlama sitesi ve panel temeli staging'de. Sırada **Scope Bot** var.
 - **BareMac v0.4** — parametrik tweak'ler, uygulama içi konsol ve menü çubuğu desteğiyle alpha'da.
 - **Müşteri işleri** — kurumsal siteler, yönetim panelleri ve POS/KDS sistemleri.
 
